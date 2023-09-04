@@ -9,6 +9,8 @@ Hashmat is a brave warrior who moves from one place to another, along with his f
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
 |   1   | [main.cpp](./main.cpp)     | solution file.                                             |
-|   2   | [input](./in1.txt)             | Larger test input from udebug                              |
-|   3   | [output](./out1.txt)           | Output file for the udebug inputs                          |
+|   2   | [input](./in1.txt)         | Larger test input from udebug                              |
+|   3   | [output](./out1.txt)       | Output file for the udebug inputs                          |
+|   4   | [problem](./10055.pdf)     | The problem statement/pdf                                  |
+
 
