@@ -7,7 +7,7 @@
 
 |   #   | File                          | Description                                        |
 | :---: | ----------------------------- | -------------------------------------------------- |
-|   1   | [Main.cpp] (./main.pp)        | solution file                                      | 
+|   1   | [Main.cpp] (./main.cpp)       | solution file                                      | 
 |   2   | [input1]  (./in1.txt)         | input file 1                                       |
 |   3   | [input2]  (./in2.txt)         | input file 2                                       |
 |   4   | [input3]   (./in3.txt)        | input file 3                                       |
