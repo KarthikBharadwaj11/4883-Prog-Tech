@@ -5,10 +5,12 @@
 
 ### Files
 
-|   #   | File                          | Description                                        |
-| :---: | ----------------------------- | -------------------------------------------------- |
-|   1   | [Main.cpp] (./main.cpp)       | solution file                                      | 
-|   2   | [input1]  (./in1.txt)         | input file 1                                       |
-|   3   | [input2]  (./in2.txt)         | input file 2                                       |
-|   4   | [input3]   (./in3.txt)        | input file 3                                       |
-|   5   | [10226.pdf] (./10226(1).pdf)  | document pdf                                       |
+|   #   | Folder Link                            | Assignment Description                               |
+| :---: | -------------------------------------- | ---------------------------------------------------- |
+|   1   | [main.cpp](./main.cpp)                 | solution file                                        |
+|   2   | [input1](./in1.txt)                    | input file 1                                         |
+|   3   | [input2](./in2.txt)                    | input file 2                                         |
+|   4   | [input3](./in3.txt)                    | input file 3                                         |
+|   5   | [PDF](./10226(1).pdf)                  | PDF document                                         |
+
+
