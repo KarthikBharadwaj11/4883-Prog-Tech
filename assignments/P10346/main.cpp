@@ -1,5 +1,5 @@
 // Name: Karthik Bharadwaj Surya Prakash Hodegere
-// Programming Techniques
+// 4883 - Programming Techniques
 // Assignment 04(Easy breezy) - Peter's smokes (P10346)
 // Description: In this program, we are calculating the total number of
 // ciggerates Peter can make from n ciggerates and k butts per ciggerate made.
