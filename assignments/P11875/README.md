@@ -10,8 +10,8 @@
 |   #   | Folder Link                            | Assignment Description                               |
 | :---: | -------------------------------------- | ---------------------------------------------------- |
 |   1   | [main.cpp](./main.cpp)                 | solution file                                        |
-|   2   | [input1](./in1.txt)                    | input file 1                                         |
-|   3   | [input2](./in2.txt)                    | input file 2                                         |
+|   2   | [input1](./in1)                        | input file 1                                         |
+|   3   | [input2](./in2)                        | input file 2                                         |
 |   4   | [PDF](./p11875.pdf)                    | PDF document                                         |
 |   5   | [output](./out1.txt)                   | output file for input 2                              |
 
