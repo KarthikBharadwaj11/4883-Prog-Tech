@@ -6,6 +6,7 @@
 ### Thoughts on the program: This was too easy, but it helped me boost my confidence and solve other problems. 
 
 ### Note: I tested my output of this file using udebug's input file. I got the required output and it was verified by udebug. 
+#### Link: https://www.udebug.com/UVa/10071
 
 ### Files
 
