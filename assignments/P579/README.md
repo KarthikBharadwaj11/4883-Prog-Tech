@@ -5,6 +5,10 @@
 
 ### Thoughts: The problem looked very simple on the first look of it, but when I started solving it I got stuck and didn't know how to proceed. I googled the approach and read that there was a formula that could be applied to this kind of problem. I realised it was a direct substitution and it made it easy for me. Although there wasn't much to do after this, I made sure I understood why that formula worked and how we could calculate the angles. Also, while surfing, I came across a few more similar problems (which varied in formula) and I got to explore such problems. It was a fun experience considering I hadn't solved such problems before and it opened up many ideas. 7/10
 
+### Note: I uploaded this code on UVA and got it accepted. I also checked my code with udebug's input files and got the accepted output. 
+
+### Link: https://www.udebug.com/UVa/579
+
 ### Files
 
 |   #   | Folder Link                            | Assignment Description                               |
