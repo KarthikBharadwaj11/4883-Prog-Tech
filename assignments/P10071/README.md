@@ -16,3 +16,4 @@
 |   2   | [input1](./in1)                    | input file 1                                         |
 |   3   | [input2](./in2)                    | input file 2                                         |
 |   4   | [PDF](./p10071.pdf)                    | PDF document                                         |
+|   5   | [output](./out.txt)                    | output file                                        |
