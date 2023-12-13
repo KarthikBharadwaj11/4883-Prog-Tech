@@ -5,6 +5,9 @@
 
 ### Thoughts: At first I was a little confused as to how to approach the code and what formula to use. I tried looking for similar math problems/ concepts that could help. I later came across the formula (K+P-1)%N+1 which I've used in my code. I would rate it 6/10 (the formula is hard to understand/ come up with at first glance). 
 
+### Notes: I tested this code using udebug input and got the accepted output. I also uploaded the code into UVA and got  it accepted. 
+### Link: https://www.udebug.com/UVa/11805
+
 ### Files
 
 |   #   | Folder Link                            | Assignment Description                               |
