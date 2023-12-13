@@ -5,6 +5,8 @@
 
 ### Thoughts: It was pretty straightforward. 10/10
 
+### Note: This was a straight forward problem and I got it accepted in UVA.   
+
 ### Files
 
 |   #   | Folder Link                            | Assignment Description                               |
