@@ -12,5 +12,6 @@
 |   3   | [input2](./in2.txt)                    | input file 2                                         |
 |   4   | [input3](./in3.txt)                    | input file 3                                         |
 |   5   | [PDF](./10226(1).pdf)                  | PDF document                                         |
+|   5   | [Output](./out1.txt))                  | Output file                                          |
 
 
