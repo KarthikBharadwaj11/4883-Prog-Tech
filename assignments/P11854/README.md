@@ -3,6 +3,9 @@
 
 ## Description: In this program, we are determining whether the given sides of a triangle are of a right-angled triangle or not, using Pythagoras formula. 
 
+### Note: I got this accepted at UVA and got the required outputs using udebug input. 
+### Link: https://www.udebug.com/UVa/11854
+
 ### Files
 
 |   #   | Folder Link                            | Assignment Description                               |
