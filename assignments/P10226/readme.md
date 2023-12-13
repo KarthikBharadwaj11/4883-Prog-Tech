@@ -1,7 +1,9 @@
 ## 10226 - Hardwood Species
 ## Karthik Bharadwaj Surya
 
-## Description: In this program, we are calculating the percentages of the species of trees in a particular area observed by a satellite. 
+## Description: In this program, we are calculating the percentages of the species of trees in a particular area observed by a satellite
+
+### Thoughts: This was a tricky problem for me. On an outlook, it seemed simple but while trying to solve it I faced some issues trying to logic it out. 
 
 ### Files
 
