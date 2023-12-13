@@ -5,6 +5,9 @@
 
 ### Thoughts: I found the problem to be pretty straightforward, I knew I had to use an array/vector to input the elements. We needn't sort them since the input is ordered in either ascending or descending. After taking the input, I ust had to find the middle element for the Captain's age. 10/10 
 
+### Notes: I uploaded this program on UVa and got it accepted. Input file 2 is an udebug input and the output file is the corresponding output. 
+### link: https://www.udebug.com/UVa/11875
+
 ### Files
 
 |   #   | Folder Link                            | Assignment Description                               |
