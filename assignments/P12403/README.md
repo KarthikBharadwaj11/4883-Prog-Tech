@@ -5,6 +5,9 @@
 
 ### Thoughts: I felt that this was a very easy problem and didn't need much thinking. I just had to add the donations cumulatively and display the end result. 10/10
 
+### Notes: I got this problem accepted in UVA and tested it with udebug input files. Input 2 is of udebug and the output file is its corresponding output. 
+### Link: https://www.udebug.com/UVa/12403
+
 ### Files
 
 |   #   | Folder Link                            | Assignment Description                               |
