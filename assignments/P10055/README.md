@@ -4,6 +4,9 @@
 
 Hashmat is a brave warrior who moves from one place to another, along with his friends, to fight opponents. He calculates the difference between his soldier number and the opponent's soldier number before he decides to start the fight. It's given that Hashmat's soldier number is never greater than his opponent's. 
 
+### Note: I tested the output for this program using a udebug input file. I got the expected output and it was verified by udebug. I couldn't upload this code on UVA Online Judge since there was an issue with their server. I have attached the input and the output file. 
+
+
 ### Files
 
 |   #   | File                       | Description                                                |
