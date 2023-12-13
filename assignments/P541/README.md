@@ -5,6 +5,10 @@
 
 ### Thoughts: In my first read, I felt that this problem was interesting. My first thought was that I had to iterate through the matrix, row x column and had to check for the check bits. I also had to add the total value of the bits in every row and column and check if it was divisible by 2 (thereby checking if there is an even number of set bits). I had to use Chat GPT a little to get the logic right, but I knew what I was asking for and how to go about the code. 8/10
 
+### Note: I couldn't get this problem uploaded on UVA due to their server issue. But I have tested my code by using udebug's input file and I have got the required/accepted output. input file 2 is of udebug's and the output file is its corresponding output. 
+
+### Link: https://www.udebug.com/UVa/541
+
 ### Files
 
 |   #   | Folder Link                            | Assignment Description                               |
