@@ -3,7 +3,9 @@
 
 ## Description: In this program, we determine the displacement given the velocity(v) and time(t).
 
-Thoughts on the program: This was too easy, but it helped me boost my confidence and solve other problems. 
+### Thoughts on the program: This was too easy, but it helped me boost my confidence and solve other problems. 
+
+### Note: I tested my output of this file using udebug's input file. I got the required output and it was verified by udebug. 
 
 ### Files
 
