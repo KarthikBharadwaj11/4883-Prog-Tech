@@ -5,6 +5,9 @@
 
 ### Thoughts: I found this problem a little difficult to begin with. Although I could draw it out on paper and analyse it, I initially couldn't code it straight away. I tried a couple of logic that didn't work out and I finally had to work my way through this logic, with a little help from Google. I felt stupid because it was an easy breezy and it was easy, but I understood where I went wrong and learnt the approach. 
 
+### Notes: I submitted this code to UVA and got it accepted. I tested it with udebug inputs and got the required output. Input file 2 is the udebug input and the output file is the corresponding output. 
+
+
 ### Files
 
 |   #   | Folder Link                            | Assignment Description                               |
