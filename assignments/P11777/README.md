@@ -5,7 +5,11 @@
 
 ### Thoughts: At first glance, it looked like a very easy problem. While coding it, I made simple logical mistakes because I was a little over-confident. However, I could finish coding this problem soon and it was fun to solve. PS: Input 2 has a lot of data, I had to create an output file to copy the data onto udebug. 
 
-### Files
+### Note: I got this code accepted to UVA, and tested it with udebug inputs. I got the accepted outputs and I have attached the files. 
+
+### Link: https://www.udebug.com/UVa/11777
+
+### Files 
 
 |   #   | Folder Link                            | Assignment Description                               |
 | :---: | -------------------------------------- | ---------------------------------------------------- |
