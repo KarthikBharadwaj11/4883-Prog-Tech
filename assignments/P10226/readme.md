@@ -9,7 +9,7 @@
 
 |   #   | Folder Link                            | Assignment Description                               |
 | :---: | -------------------------------------- | ---------------------------------------------------- |
-|   1   | [main.cpp](./main.cpp)                 | solution file                                        |
+|   1   | [main.cpp](./main(2).cpp)                 | solution file                                        |
 |   2   | [input1](./in1.txt)                    | input file 1                                         |
 |   3   | [input2](./in2.txt)                    | input file 2                                         |
 |   4   | [input3](./in3.txt)                    | input file 3                                         |
