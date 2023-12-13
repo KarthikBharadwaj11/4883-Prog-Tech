@@ -1,7 +1,12 @@
 ## 10346 - Peter's smokes
 ## Karthik Bharadwaj Surya
 
-## Description: In this program, we are calculating the maximum number of cigarettes Peter can make using n cigarettes and k cigarette butts per cigarette
+## Description: In this program, we are calculating the maximum number of cigarettes Peter can make using n cigarettes and k cigarette butts per cigarette.
+
+### Thoughts: It was an easy problem, I just had to think of it mathematically and figure out the formula. I had seen such problems before and had to google a bit to approach the formula. It was a direct application. 9/10
+### Note: I got this code accepted on UVA. I also tested my code using udebug inputs and got the required output. My input file 2 is of udebug and the output file is the corresponding output. 
+
+### Link: https://www.udebug.com/UVa/10346
 
 ### Files
 
