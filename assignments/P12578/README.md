@@ -5,6 +5,8 @@
 
 ### Thoughts: It was an easy one, the data needed was given and the formula was simple. 10/10
 
+## Notes: I tested the code with udebug input files and my output matched their accepted outputs. input file 2 is of udebug and the output file is the corresponding output. I also got this program accepted at UVA. 
+
 ### Files
 
 |   #   | Folder Link                            | Assignment Description                               |
